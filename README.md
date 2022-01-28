@@ -6,7 +6,7 @@
 4. What is a reasonable code coverage % for unit tests (and why)?
 5. HTTP/POST vs HTTP/PUT?
 6. What are the Safe and Unsafe methods of HTTP?
-7. How does HTTP Basic Authentication work ?
+7. How does HTTP Basic Authentication work?
 8. Define RestTemplate in Spring?
 9. What is idempotant and which HTTP methods are idempotant?
 10. What is DNS Spoofing? How to prevent?
